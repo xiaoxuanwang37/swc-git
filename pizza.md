@@ -4,6 +4,11 @@
 
 - tomato
 - mozzarella
-- dough 
-
+- dough
+- salt
+- pepper
+- salami
+- chili
+- garlic 
+- oil
 
