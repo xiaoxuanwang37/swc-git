@@ -3,7 +3,7 @@
 ##Ingredience 
 
 - tomato
-- cheese
+- mozzarella
 - dough 
 
 
